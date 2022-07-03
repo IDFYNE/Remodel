@@ -4,7 +4,8 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
+[3D Render of Planned Remodel](./FullRemodel.html).
+[2D Floor Plan of Planned Remodel](./PonsitRemodfurnished.svgl).
 
 There should be whitespace between paragraphs.
 
