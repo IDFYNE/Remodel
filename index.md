@@ -5,7 +5,7 @@ layout: default
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [3D Render of Planned Remodel](./FullRemodel.html).
-[2D Floor Plan of Planned Remodel](./PonsitRemodfurnished.svgl).
+[2D Floor Plan of Planned Remodel](./PonsitRemodfurnished.svg).
 
 There should be whitespace between paragraphs.
 
