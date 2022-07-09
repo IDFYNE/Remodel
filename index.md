@@ -33,89 +33,90 @@ layout: default
 
 1. Electrical and Plumbing  
 
-    a. Replace Breaker with higher capacity box
+    a. [Replace Breaker with higher capacity box](assets/1a.jpg)
 
-    b. Repair and Install new sewer pipes under crawl  
+    b. [Repair and Install new sewer pipes under crawl](assets/1b.jpg)  
 
     c. install plumbing for new master bath  
 
-    d. Insulate hvac vents
+    d. [Insulate hvac vents](assets/1d.jpg)
 
 2. Master Suite Addition  
 
-    a. Build addition with “His and her” walk in closets and master bath off master bedroom.  
+    a. [Build addition with “His and her” walk in closets and master bath off master bedroom.](assets/2a.png)  
     
-    b. Install Bathtub, Vanity, lighting, and 2 Toilets (one for current bath)  
+    b. [Install Bathtub, Vanity, lighting, and 2 Toilets (one for current bath)](assets/2b.jpg)
     
     c. Run Electric from breaker box
 
 3. Current Bathroom  
     
-    a. Replace old toilet and seal gasket at base in current bathroom.  
+    a. [Replace old toilet and seal gasket at base in current bathroom.](assets/3a.jpg) 
     
-    b. Clean, caulk, and seal tile and fixtures in current bathroom.
+    b. [Clean, caulk, and seal tile and fixtures in current bathroom.](assets/3b.jpg)
 
 4. Move Utility Room/Expand Dining Room
 
-    a. Remove 2 utility room walls.  
+    a. [Remove 2 utility room walls.](assets/4a.jpg)  
     
-    b. Move the washer, dryer, and water heater.
+    b. [Move the washer, dryer, and water heater.](assets/4b.jpg)
     
-    c. Patch old Flue hole and run new flue through roof. 
+    c. [Patch old Flue hole and run new flue through roof.](assets/4c.jpg)
     
-    d. Re-route water and drain pipes to new utility room.
+    d. [Re-route water, drain, and GAS pipes to new utility room.](assets/4d.jpg)
 
-    e. Cap or re-route utility wall air vent to floor.  
+    e. [Cap or re-route utility wall air vent to floor.](assets/4e.jpg)  
 
-    f. Install inswing door from dining room to new utility room.
+    f. [Install inswing door from dining room to new utility room.](assets/4f.jpg)
 
 5. Kitchen Remodel  
 
-    a. Remove wall separating dining room and kitchen  
+    a. [Remove wall separating dining room and kitchen](assets/5a.jpg) 
     
-    b. Purchase and install new cabinets, new flooring.  
+    b. [Purchase and install new cabinets, new flooring.](assets/5b.jpg)  
     
-    c. Install new microwave to out vent through vent over stove.  
+    c. [Install new microwave to out vent through vent over stove.](assets/5c.jpg) 
     
-    d. Run water for dishwasher and ice dispenser
+    d. [Run water for dishwasher and ice dispenser](assets/5d.jpg)
 
 6. Roof/Chimney Work  
     
     a. Install flashing and metal casing around brick chimney.  
 
-    b. Patch old flue hole and flash new one.  
+    b. [Patch old flue hole and flash new one.](assets/6b.jpg)
     
     c. install chimney deflector
   
 7. Fixtures and Patches.  
 
-    a. Install new light fixture in living room.  
+    a. [Install new light fixture in living room.](assets/7a.jpg)  
     
-    b. Install leaf fan fixture in Master bedroom.  
+    b. [Install leaf fan fixture in Master bedroom.](assets/7b.jpg)  
     
-    c. Replace remaining 8 ceiling lights with matching fixtures.  
+    c. [Replace remaining 8 ceiling lights with matching fixtures.](assets/7c.jpg)  
     
-    d. Replace globe and pull chains only on Dining room fan.  
+    d. [Replace globe and pull chains only on Dining room fan.](assets/7d.jpg)  
     
-    e. Repair drywall and ceiling cracks.
+    e. [Repair drywall and ceiling cracks.](assets/7e.jpg)
 
 8. Exterior  
 
-    a. Replace front and back door light fixtures.  
+    a. [Replace front and back door light fixtures.](assets/9a.jpg)  
     
-    b. Install Dog railing and gate on front porch.  
+    b. [Install Dog railing and gate on front porch.](assets/9b.jpg)  
     
-    c. Redirect fence around driveway.  
+    c. [Redirect fence around driveway.](assets/9c.jpg)  
     
-    d. Repair outbuilding attached to garage.  
+    d. [Repair outbuilding attached to garage.](assets/9d.jpg)  
     
-    e. Install light on garage peak
+    e. [Install light on garage peak](assets/9e.jpg)  
+
 9. Finishing Touches  
     a. Pull up carpets.  
     
-    b. Find matching plank for extended Dining area.  
+    b. [Find matching plank for extended Dining area.](assets/9b.jpg)  
     
-    c. Install vinyl plank in Den.
+    c. [Install vinyl plank in Den.](assets/9c.jpg)
 
     d. Treat hardwood.  
     
