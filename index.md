@@ -2,11 +2,7 @@
 layout: default
 ---
 
-# 8308 Ponsit Remodel Plan of Action
-
-## Full walk-through of planned Remodel
-
-[3D Render of Planned Remodel](./FullRemodel.html)  
+# 8308 Ponsit Remodel Plan of Action  
 
 &nbsp;  
 &nbsp;  
@@ -123,3 +119,11 @@ layout: default
     e. Clean out HVAC.  
     
     f. Install downspout extensions.
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+
+## Full walk-through of planned Remodel
+
+[3D Render of Planned Remodel](./FullRemodel.html)
