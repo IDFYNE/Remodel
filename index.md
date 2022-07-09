@@ -2,30 +2,37 @@
 layout: default
 ---
 
-#8308 Ponsit Remodel Plan of Action
+# 8308 Ponsit Remodel Plan of Action
 
 ## Full walk-through of planned Remodel
+
 [3D Render of Planned Remodel](./FullRemodel.html)
 
 ## Floor Plans and 3d Models
 
 ### Current 3d Model 
-<div class="sketchfab-embed-wrapper"> <iframe title="8308 Ponsit Actual" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/959e26c057c94ef4b06e54766ce4c5d5/embed?dnt=1"> </iframe> <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;"> <a href="https://sketchfab.com/3d-models/8308-ponsit-actual-959e26c057c94ef4b06e54766ce4c5d5?utm_medium=embed&utm_campaign=share-popup&utm_content=959e26c057c94ef4b06e54766ce4c5d5" target="_blank" style="font-weight: bold; color: #1CAAD9;"> 8308 Ponsit Actual</a></p></div>
 
-### Current Floorplan![](8308%20Ponsit%20actual%20wDimensions.svg)
+<div class="sketchfab-embed-wrapper"> <iframe title="8308 Ponsit Actual" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/959e26c057c94ef4b06e54766ce4c5d5/embed?dnt=1"> </iframe> <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;"> <a href="https://sketchfab.com/3d-models/8308-ponsit-actual-959e26c057c94ef4b06e54766ce4c5d5?utm_medium=embed&utm_campaign=share-popup&utm_content=959e26c057c94ef4b06e54766ce4c5d5" target="_blank" style="font-weight: bold; color: #1CAAD9;"> 8308 Ponsit Current</a></p></div>
+
+### Current Floorplan [![Ponsit Actual](PonsitActual.svg "Ponsit Actual")](PonsitActual.svg)
 
 ### Remodel 3d Model
 
 <div class="sketchfab-embed-wrapper"> <iframe title="8308 Ponsit Remodel" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/82135869a6bf44c98516482c2f1ebd23/embed?dnt=1"> </iframe> <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;"> <a href="https://sketchfab.com/3d-models/8308-ponsit-remodel-82135869a6bf44c98516482c2f1ebd23?utm_medium=embed&utm_campaign=share-popup&utm_content=82135869a6bf44c98516482c2f1ebd23" target="_blank" style="font-weight: bold; color: #1CAAD9;"> 8308 Ponsit Remodel</a></p></div>
 
-### Remodel Floorplan![](PonsitRemod.svg)
+### Remodel Floorplan[![Ponsit Remodel](PonsitRemod.svg "Ponsit Remodel")](PonsitRemod.svg)
 
 ## Prioritized Task List
-- Electrical and Plumbing
-  - Replace Breaker with higher capacity box
-  - Repair and Install new sewer pipes under crawl
-  - install plumbing for new master bath
-  - Insulate hvac vents
+
+1. Electrical and Plumbing  
+
+    a. Replace Breaker with higher capacity box
+
+    b. Repair and Install new sewer pipes under crawl  
+
+    c. install plumbing for new master bath  
+
+    d. Insulate hvac vents
 
 - Master Suite Addition
   - Build addition with “His and her” walk in closets and master bath off master bedroom.
