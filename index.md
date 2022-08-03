@@ -2,39 +2,34 @@
 layout: default
 ---
 
-# Remodel Plans
-
-&nbsp;  
+# Floor Plans
 &nbsp;  
 
-## Floor Plans
-&nbsp;  
-
-### Current Floorplan [![Current](Current.svg "Current")](Current.svg) 
+## Current Floorplan [![Current](Current.svg "Current")](Current.svg) 
 
 
-### Remodel Floorplan [![Remodel](Remod.svg "Remodel")](Remod.svg)
+## Remodel Floorplan [![Remodel](Remod.svg "Remodel")](Remod.svg)
 
 
-### Furnished Remodel Floorplan[![Furnished](RemodFurnished.svg "Furnished")](RemodFurnished.svg)
+## Furnished Remodel Floorplan[![Furnished](RemodFurnished.svg "Furnished")](RemodFurnished.svg)
 
 &nbsp;  
 &nbsp;  
 
 
-## 3D Models
+# 3D Models
 
 
-### [Current](https://skfb.ly/owJpZ)
+## [Current](https://skfb.ly/owJpZ)
 
 
-### [Remodel](https://skfb.ly/owJpu)
+## [Remodel](https://skfb.ly/owJpu)
 
 
 &nbsp;  
 &nbsp;  
 
 
-## Full walk-through
+# Full walk-through
 
-[3D Render of Planned Remodel](./FullRemodel.html)
+## [3D Render of Planned Remodel](./FullRemodel.html)
